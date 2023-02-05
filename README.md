@@ -18,6 +18,7 @@
 name: Serhat Esen
 located_in: Gebze, KOCAELİ
 current_job: Software Developer
+
 company:
   [
     "Software Developer in Dev Studio Design"
