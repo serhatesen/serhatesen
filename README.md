@@ -25,7 +25,9 @@ company:
   ]
 education:
   [
-    "License management information systems in Anadolu University"
+    "License management information systems in Anadolu University",
+    "Licence business faculty istanbul university",
+    "Associate Degree Electronic Communications Kocaeli University"
   ]
 certificates:
   [
