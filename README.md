@@ -19,10 +19,6 @@ name: Serhat Esen
 located_in: Gebze, KOCAELİ
 current_job: Software Developer
 
-company:
-  [
-    "Software Developer in Dev Studio Design"
-  ]
 education:
   [
     "License management information systems in Anadolu University",
